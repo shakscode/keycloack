@@ -1,0 +1,7 @@
+keycloack.
+
+saml 2.0
+identity provider
+service provider.
+
+service provider is the app..trust is enaled between ip and sp...user interacts with ip and sends identity token to sp.
