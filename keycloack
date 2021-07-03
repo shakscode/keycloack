@@ -5,3 +5,10 @@ identity provider
 service provider.
 
 service provider is the app..trust is enaled between ip and sp...user interacts with ip and sends identity token to sp.
+
+sp portal also forecefully forwards to ip portal and if session is already connected...it allow us.
+
+first hit ip portal and then et forwarded to sp ortal whereapp is hosted.
+
+saml tracer can be isntalled in browser and all process and requests can be traced
+
